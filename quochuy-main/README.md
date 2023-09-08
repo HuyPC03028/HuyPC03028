@@ -2,7 +2,6 @@
 <a href="#" target="_blank">
   <img src="svg/Quochuy.svg" width="1200" alt="Quochuy-official" />
 </a>
-
 <h2 align="center">🛠 Learn 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
